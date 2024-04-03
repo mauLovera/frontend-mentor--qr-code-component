@@ -13,7 +13,7 @@ export default function QRCard() {
         />
       </div>
       <header className="px-4 mb-6">
-        <h1 className="mb-4 text-[22px] font-bold leading-[28px]">
+        <h1 className="mb-4 text-[22px] font-bold leading-[28px] text-dark-blue">
           Improve your front-end skills by building projects
         </h1>
         <p className="text-grayish-blue tracking-[calc(-0.19_*_0.01em)] leading-[18px]">Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
