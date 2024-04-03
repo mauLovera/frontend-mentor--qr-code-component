@@ -3,7 +3,7 @@ import Image from "next/image"
 export default function QRCard() {
   return (
     <article className="max-w-[320px] bg-white p-4 text-center rounded-[20px]">
-      <div className="relative mb-6 aspect-square h-[288px] rounded-[10px] overflow-hidden">
+      <div className="relative mb-6 aspect-square h-[288px] rounded-[10px] overflow-hidden bg-blue">
         <Image
           src={"/images/image-qr-code.png"}
           fill={true}
