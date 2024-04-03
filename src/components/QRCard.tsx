@@ -7,6 +7,7 @@ export default function QRCard() {
         <Image
           src={"/images/image-qr-code.png"}
           fill={true}
+          priority={true}
           alt="QR Code for frontendmentor.io"
         />
       </div>
